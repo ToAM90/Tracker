@@ -69,7 +69,7 @@ If the user chooses to log weight they should be prompted for data.
     Enter the weight (in pounds)? 172
 
 172 lbs has been logged for Gary on 2022-03-19
-If a weight is entered for a date that already has a weight tracked, the weight should be overwriten.
+If a weight is entered for a date that already has a weight tracked, the weight should be ***overwriten***.
 
 When running a report a the user should specify the name of the person for whom the report should be run. They should also specify a date range for which the report whould be run.
 
