@@ -51,7 +51,7 @@ A user should also be able to run a report to see the progress of a person over 
 
 The application should write to a single .txt file (e.g. WeightTracker.txt).
 
-Prompt the user if they wish to log a wigh in, or run a report.
+Prompt the user if they wish to log a weigh in, or run a report.
 
     What would you like to do?
     1) Log weight
