@@ -43,7 +43,7 @@ All data that is input by the user should be written to the WaterData.txt file s
 > 2022-03-19,64
 > 2022-03-19,4
 
-### Part One: Tracking Weight Loss/Gain
+### Part Two: Tracking Weight Loss/Gain
 
 Whether your goal is to lose weight or to gain it, you will want to track your progress. This CLI will allow a user to enter a the name of a person, their weight, and date of the weigh in.
 
