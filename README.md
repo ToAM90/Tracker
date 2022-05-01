@@ -93,6 +93,11 @@ The report should display 1 row for each date, and include a total amount of wat
 
 All data that is input by the user should be written to the WeightTracker.txt file so that the data is available for reporting in the future.
 
+   <html>
+      <head>
+      </head>
+    </html>
+    
   WeightTracker.txt
   
   Gary,2022-03-12,176
