@@ -16,7 +16,7 @@ Prompt the user if they wish to log a drink, or run a report.
     2) Run drinking reports
     3) Exit
   
-  Please select an option: 
+    Please select an option: 
 
 If the user chooses to log water consumption they should be prompted for data.
 
@@ -58,7 +58,7 @@ Prompt the user if they wish to log a weigh in, or run a report.
     2) Reports
     3) Exit
 
-  Please select an option: 
+     Please select an option: 
 
 If the user chooses to log weight they should be prompted for data.
 
