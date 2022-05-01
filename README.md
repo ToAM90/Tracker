@@ -82,29 +82,23 @@ When running a report a the user should specify the name of the person for whom 
 
 The report should display 1 row for each date, and include a total amount of water that was consumed on that date.
 
-  Name: Gary
-  ---------------------------------
-  Date            Weight
-  ----------      -----------------
-  2022-03-13      175 lbs
-  2022-03-14      174 lbs
-  2022-03-15      175 lbs
-  ...
+    Name: Gary
+    ---------------------------------
+    Date            Weight
+    ----------      -----------------
+    2022-03-13      175 lbs
+    2022-03-14      174 lbs
+    2022-03-15      175 lbs
+    ...
 
 All data that is input by the user should be written to the WeightTracker.txt file so that the data is available for reporting in the future.
 
-   <html>
-      <head>
-        testing
-      </head>
-    </html>
-    
-  WeightTracker.txt
-  
-  Gary,2022-03-12,176
-  Marin,2022-03-12,111
-  Gary,2022-03-13,175
-  Marin,2022-03-13,111
+    WeightTracker.txt
+   
+    Gary,2022-03-12,176
+    Marin,2022-03-12,111
+    Gary,2022-03-13,175
+    Marin,2022-03-13,111
 
 
 > Special Thanks to https://github.com/gdzierzon/devzengarden for this little project! 
