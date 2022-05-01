@@ -6,7 +6,7 @@ Water is the source of life, and yet for some it is difficult to drink enough wa
 
 A user should also be able to run a report to see how much water they drank on a given day.
 
-The application should write to a single .csv file (e.g. WaterData.csv).
+The application should write to a single .txt file (e.g. WaterData.txt).
 
 Prompt the user if they wish to log a drink, or run a report.
 
@@ -49,7 +49,7 @@ Whether your goal is to lose weight or to gain it, you will want to track your p
 
 A user should also be able to run a report to see the progress of a person over time.
 
-The application should write to a single .csv file (e.g. WeightTracker.csv).
+The application should write to a single .txt file (e.g. WeightTracker.txt).
 
 Prompt the user if they wish to log a wigh in, or run a report.
 
