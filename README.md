@@ -10,38 +10,38 @@ The application should write to a single .csv file (e.g. WaterData.csv).
 
 Prompt the user if they wish to log a drink, or run a report.
 
-  What would you like to do?
-  
-  1) Log water consumption
-  2) Run drinking reports
-  3) Exit
+    What would you like to do?
+    
+    1) Log water consumption
+    2) Run drinking reports
+    3) Exit
   
   Please select an option: 
 
 If the user chooses to log water consumption they should be prompted for data.
 
-  Enter the date of consumption (Blank = today): 2022-03-19
-  How much water did you drink (ounces)? 64
+    Enter the date of consumption (Blank = today): 2022-03-19
+    How much water did you drink (ounces)? 64
 
-  64 oz has been logged for 2022-03-19
+    64 oz has been logged for 2022-03-19
 
 The report should display 1 row for each date, and include a total amount of water that was consumed on that date.
 
-  Date            Water Consumption
-  ----------      -----------------
-  2022-03-18      80 oz
-  2022-03-19      68 oz
-  ...
+    Date            Water Consumption
+    ----------      -----------------
+    2022-03-18      80 oz
+    2022-03-19      68 oz
+    ...
 
 All data that is input by the user should be written to the WaterData.txt file so that the data is available for reporting in the future.
 
-  WaterData.txt
+    WaterData.txt
   
-  2022-03-18,32
-  2022-03-18,32
-  2022-03-18,16
-  2022-03-19,64
-  2022-03-19,4
+    2022-03-18,32
+    2022-03-18,32
+    2022-03-18,16
+    2022-03-19,64
+    2022-03-19,4
 
 ### Part Two: Tracking Weight Loss/Gain
 
@@ -53,32 +53,31 @@ The application should write to a single .csv file (e.g. WeightTracker.csv).
 
 Prompt the user if they wish to log a wigh in, or run a report.
 
-  What would you like to do?
-  1) Log weight
-  2) Reports
-  3) Exit
+    What would you like to do?
+    1) Log weight
+    2) Reports
+    3) Exit
 
   Please select an option: 
 
 If the user chooses to log weight they should be prompted for data.
 
-  Weigh in
-  ----------------------------------------------
-  Enter the name of the person weighing in: Gary
-  Enter the date of the weigh in (Blank = today): 2022-03-19
-  Enter the weight (in pounds)? 172
+    Weigh in
+    ----------------------------------------------
+    Enter the name of the person weighing in: Gary
+    Enter the date of the weigh in (Blank = today): 2022-03-19
+    Enter the weight (in pounds)? 172
 
 172 lbs has been logged for Gary on 2022-03-19
 If a weight is entered for a date that already has a weight tracked, the weight should be overwriten.
 
 When running a report a the user should specify the name of the person for whom the report should be run. They should also specify a date range for which the report whould be run.
 
-  Report
-  
-  -------------------------------------------------
-  Enter the name of the person for the report: Gary
-  Start date (Blank = 7 days before today): 2022-03-13
-  End date (Blank = today): 2022-03-19
+    Report
+    -------------------------------------------------
+    Enter the name of the person for the report: Gary
+    Start date (Blank = 7 days before today): 2022-03-13
+    End date (Blank = today): 2022-03-19
 
 The report should display 1 row for each date, and include a total amount of water that was consumed on that date.
 
