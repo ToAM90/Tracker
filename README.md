@@ -1,5 +1,8 @@
 # Weight and Water Tracker
 
+My second side project that I made to gain more practice in writing codes, keeping in mind consistency and preventing tight coupling as much as possible. 
+
+
 ### Part One: Tracking Water Intake
 
 Water is the source of life, and yet for some it is difficult to drink enough water every day. This CLI is intended to allow a user to enter the how much water they drink each day, and store the data in a .csv file.
